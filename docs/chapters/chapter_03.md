@@ -13,7 +13,7 @@ When using Markdown you annotate your text with chracters, such  as \*s or \#s, 
 
  
 <figure>
-<img src="../../assets/images/LaTeXvsMd.png" width="500"  alt="Image comparing LaTex vs. Markdown sytnax"/>
+<img src="../../assets/images/LaTeXvsMd.png" width="600"  alt="Image comparing LaTex vs. Markdown sytnax"/>
 <figcaption> Figure 3.1 Comparing markup syntax of Latex verus Markdown. Code for either markup language is highlighted in yellow. On rendering either document, the markedup text should display in bold, italics or both. </figcaption>
 </figure>
 
@@ -194,9 +194,9 @@ The other type of link in basic Markdown is a _reference_ link. In this case the
         Don't forget to read [this article][link one] in its entirety. 
        
 
-       [link one]: https://www.nature.com/articles/s41562-016-0021
-       [another-link]: https://ziemann-lab.net/public/5pillars/practical_guides.html
-         ```
+        [link one]: https://www.nature.com/articles/s41562-016-0021
+        [another-link]: https://ziemann-lab.net/public/5pillars/practical_guides.html
+        ```
 
     === "Rendered output:"
 
