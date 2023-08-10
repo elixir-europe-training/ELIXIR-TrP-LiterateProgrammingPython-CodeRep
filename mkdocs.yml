@@ -4,6 +4,7 @@ nav:
     - Course Content:
       - "1. title of first chapter": chapters/chapter_01.md
       - "2. title of second chapter": chapters/chapter_02.md
+      - "3. An Introduction to Markdown": chapters/chapter_03.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
@@ -50,8 +51,10 @@ markdown_extensions:
       toc_depth: 3
   - pymdownx.superfences
   - attr_list
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.details
+  - pymdownx.keys
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -59,7 +62,13 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - neoteroi.cards
+  - pymdownx.arithmatex:
+      generic: true
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   - stylesheets/extra.css
