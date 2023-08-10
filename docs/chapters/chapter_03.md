@@ -349,7 +349,6 @@ The hard break works but not the formatting is now disconnected between the Mark
 - Markdown is not the only tool for formatting text but it's easy to learn making it one of the most popular tools for various purposes including Literate Programming.  
 - Markdown is supported by many of the popular IDEs including JupyterNotebooks  
 - Although basic Markdown has limited functionality, many extensions, often language-specific, exist to enhance Markdown's capability.
-- Finally, in some platforms e.g. RStudio, Markdown can be combined with other formtting or typesetting languages such as HTML or LaTeX.
 
 
 ## 3.5 Further Learning and Resources for Markdown
@@ -359,4 +358,4 @@ The above should give you enough Markdown to get started and follow any later le
 * [Markdown Guide](https://www.markdownguide.org/basic-syntax/) offers a short and handy reference to the basic syntax or grammar of markdown.
 * Want to practise some more markdown? Try this excellent, standalone [Markdown tutorial](https://www.markdowntutorial.com/). Some of the examples on this page are based on these lessons.
 * A nifty [cheatsheet](https://www.markdownguide.org/cheat-sheet/) for *basic* markdown can be handy.
-* :simple-jupyter: A [cheatsheet for extended Markdown in Jupyter Notebooks](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet) going beyond basic Markdown.
+* A [cheatsheet for extended Markdown in Jupyter Notebooks](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet) going beyond basic Markdown.
