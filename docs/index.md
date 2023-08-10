@@ -10,28 +10,28 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    A course to introduce the theory, advantages and implementation of Literate Programming practices for python users working in JupyterNotebooks to enhance the students abilities to produce reproducible code.
     
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+    &emsp;1. Basic programming skills in Python   
+    &emsp;2. A familiarity in using the interactive python notebooks like JupyterNotebooks  
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    &emsp;1. Have an understanding of the principles and goals of Literate Programming (LP) 
+    &emsp;2. Practically implement LP in their Python programs using Markdown in JupyterNotebooks  
     
     </br>
     
     :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
     </br>
     
-    :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
+    :fontawesome-solid-stairs: **Level:** Beginner to Intermediate  
     
     :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
     
